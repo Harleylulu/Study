@@ -1,5 +1,7 @@
 [原题链接][题目]
 
+### 题目大意
+这是一道数学题，求积分$\nabla$
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
