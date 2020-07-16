@@ -3,8 +3,10 @@
 ### 题目大意
 这是一道数学题，求积分  
 ![积分](https://github.com/Harleylulu/Study/blob/master/picture/CodeCogsEqn.gif)
+对于给定的N，给出这道积分的答案。
 
-
+### 解题思路
+在长时间都没有解出这道积分的情况下，我选择了在OEIS上查询这个序列，直接得出它的解析式，首先先求出当N=1、2、3时，该定积分的结果为
 
 ```cpp
 #include<bits/stdc++.h>
