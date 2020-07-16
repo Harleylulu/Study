@@ -1,5 +1,5 @@
 
-
+[原题链接]:https://ac.nowcoder.com/acm/contest/5666/F
 
 ```cpp
 #include<bits/stdc++.h>
