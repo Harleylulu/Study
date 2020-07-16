@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>'''C++
+#include<bits/stdc++.h>//C
 using namespace std;
 
 typedef long long ll;
