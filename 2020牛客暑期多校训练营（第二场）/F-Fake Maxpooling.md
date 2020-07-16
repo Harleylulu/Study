@@ -1,3 +1,6 @@
+# F-Fake Maxpooling
+[原题链接][题目]
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -64,3 +67,4 @@ int lcm(int a,int b)
     return a*b/gcd(a,b);
 }
 
+[题目]:https://ac.nowcoder.com/acm/contest/5667/F
