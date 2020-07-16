@@ -2,6 +2,7 @@
 
 ### 题目大意
 这是一道数学题，求积分  
+![积分](https://github.com/Harleylulu/Study/blob/master/picture/CodeCogsEqn.gif)
 
 
 
