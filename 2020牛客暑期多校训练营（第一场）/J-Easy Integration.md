@@ -2,7 +2,7 @@
 
 ### 题目大意
 这是一道数学题，求积分  
-$\int_{r=1}^\infty$
+
 
 ```cpp
 #include<bits/stdc++.h>
