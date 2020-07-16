@@ -1,6 +1,15 @@
-# F-Fake Maxpooling
+## F-Fake Maxpooling
 [原题链接][题目]
 
+### 题目大意
+给出矩阵的行数n和列数m，矩阵 Aij = lcm( i , j ) ,求每个大小为k*k的子矩阵的最大值的和。
+
+### 解题思路
+
+
+### AC代码
+
+``` cpp
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -66,5 +75,6 @@ int lcm(int a,int b)
 {
     return a*b/gcd(a,b);
 }
+```
 
 [题目]:https://ac.nowcoder.com/acm/contest/5667/F
