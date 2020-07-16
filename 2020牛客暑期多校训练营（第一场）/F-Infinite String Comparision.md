@@ -1,5 +1,5 @@
+[原题链接][题目]
 
-[原题链接]:https://ac.nowcoder.com/acm/contest/5666/F
 
 ```cpp
 #include<bits/stdc++.h>
@@ -29,3 +29,5 @@ int main()
     return 0;
 }
 ```
+
+[题目]:https://ac.nowcoder.com/acm/contest/5666/F
