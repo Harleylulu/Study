@@ -1,3 +1,6 @@
+[原题链接][原题]
+
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -50,4 +53,6 @@ void dfs(int x,int y)
         }
     }
 }
+```
 
+[题目]:https://ac.nowcoder.com/acm/contest/5667/C
