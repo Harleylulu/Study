@@ -1,3 +1,4 @@
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -32,4 +33,4 @@ ll fastpow(ll a,ll b)
     }
     return res;
 }
-
+```
