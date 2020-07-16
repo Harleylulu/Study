@@ -1,4 +1,6 @@
+[原题链接][题目]
 
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -34,3 +36,5 @@ ll fastpow(ll a,ll b)
     return res;
 }
 ```
+
+[题目]:https://ac.nowcoder.com/acm/contest/5666/J
