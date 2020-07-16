@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<bits/stdc++.h>//C++
 using namespace std;
 
 typedef long long ll;
@@ -25,3 +25,4 @@ int main()
     return 0;
 }
 
+'''
