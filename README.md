@@ -29,3 +29,7 @@ F	Fake Maxpooling
 
 7月14日～7月15日 补多校一、二场未AC的题目
 
+
+```cpp
+int main(){}
+```
