@@ -1,0 +1,27 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+string s1,s2;
+ll gcd(ll a,ll b){
+    return b==0?a:gcd(b,a%b);
+}
+
+int main()
+{
+    while(cin>>s1>>s2){
+
+        ll cnt=0;
+        ll len1=s1.length(),len2=s2.length();
+        while(s1[cnt%len1]==s2[cnt%len2]){
+            cnt++;
+            if(cnt%len1==0&&cnt%len2==0)break;
+        }
+        
+        if(s1[cnt%len1]<s2[cnt%len2])printf("<\n");
+        else if(s1[cnt%len1]==s2[cnt%len2])printf("=\n");
+        else printf(">\n");
+    }
+    return 0;
+}
+
