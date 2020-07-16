@@ -7,6 +7,7 @@
 
 
 ### AC代码
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
  
@@ -19,5 +20,6 @@ int main(){
     printf("%d",max(sum1,sum2)-min(sum1,sum2));
     return 0;
 }
+```
 
 [题目]:https://ac.nowcoder.com/acm/contest/5667/D
